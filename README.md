@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fedi Zorai</h1>
-<h3 align="center">A Passionate Computer Engineer from Tunisia</h3>
+<h3 align="center"> Software & cloud architecture engineering student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fedizorai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
